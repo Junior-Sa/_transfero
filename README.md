@@ -1,4 +1,4 @@
-# Streambox - Plataforma de entretenimento com cripto
+# Streamvibe - Plataforma de entretenimento com cripto
 
 Streambox é uma plataforma inovadora que combina catalagos de filmes atualizados, sistema de avaliaçoes e sistema com criptomoeda.
 
