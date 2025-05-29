@@ -24,3 +24,28 @@ O projeto é composto por por apps do sistema, arquivos HTML e CSS.
  - Python
  - Django
  - HTML5/CSS3
+
+📦 Como Rodar o Projeto
+- Clone o repositorio para alguma pasta no seu computador
+- git clone https://github.com/Junior-Sa/Bikecraft.git
+- ative o ambiente virtual venv
+- python -m venv venv
+- .\venv\Scripts\activate
+- instale o fremework django
+- pip install django
+- instale a biblioteca pillow
+- pip install pillow
+- rode o projeto
+  
+
+
+
+
+
+
+
+
+
+
+
+
