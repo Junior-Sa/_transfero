@@ -21,6 +21,6 @@ O projeto é composto por por apps do sistema, arquivos HTML e CSS.
 -*VENV*: Ambiente virtual Python, isolando as dependências do projeto
 
 ## 🚀 Tecnologias Utilizadas
- -Python
- -Django
- -HTML5/CSS3
+ - Python
+ - Django
+ - HTML5/CSS3
