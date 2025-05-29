@@ -14,11 +14,11 @@ Streambox é uma plataforma inovadora que combina catalagos de filmes atualizado
 
 O projeto é composto por por apps do sistema, arquivos HTML e CSS.
 
--*APPS*: Sistema   -> App principal do projeto, contendo configurações centrais
-          Filmes   -> app Django dedicado à funcionalidade de filmes (cadastro, exibição, etc.)
-          Usuarios ->  Cadastro e autenticação de usuários (login, logout, registro).
--*BASE_STATIC/BASE_TEMPLATES*: Guarda os arquivos estaticos e e os templates compartilhados por todo o projeto.
--*VENV*: Ambiente virtual Python, isolando as dependências do projeto
+- *APPS*: Sistema -> App principal do projeto contendo configurações centrais,
+           Filmes  -> app Django dedicado à funcionalidade de filmes (cadastro, exibição, etc.),
+            Usuarios ->  Cadastro e autenticação de usuários (login, logout, registro).
+- *BASE_STATIC/BASE_TEMPLATES*: Guarda os arquivos estaticos e e os templates compartilhados por todo o projeto.
+- *VENV*: Ambiente virtual Python, isolando as dependências do projeto
 
 ## 🚀 Tecnologias Utilizadas
  - Python
